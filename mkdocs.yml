@@ -2,6 +2,7 @@ site_name: Angular Prep Guide
 site_description: A comprehensive guide to learning Angular framework
 site_author: Shivprasad
 site_url: https://yourusername.github.io/angular-prep-guide  # Replace with your GitHub Pages URL
+docs_dir: docs
 
 theme:
   name: material
