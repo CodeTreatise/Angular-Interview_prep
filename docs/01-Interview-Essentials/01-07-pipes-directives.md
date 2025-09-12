@@ -1069,7 +1069,8 @@ We've covered the essential pipes and directives concepts that appear in **70%**
 ---
 
 **⬅️ Previous:** [01-06 Forms & Validation](./01-06-forms-validation.md) - Master Angular's powerful form system  
-**➡️ Next:** [Section Overview](./README.md) - Continue with remaining Interview Essentials *(01-08 Coming Soon)*  
+**🏠 [Section Home](./README.md)** - Interview Essentials Overview  
+**➡️ Next:** [01-08 Observables & RxJS](./01-08-observables-rxjs.md) - Master reactive programming patterns  
 
 **📚 Section Overview:** [Section 01 - Interview Essentials](./README.md) - Core Angular concepts for interviews
 
