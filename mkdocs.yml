@@ -97,8 +97,9 @@ nav:
     - "06: Framework Migration Stories": 02-Framework-Context/02-06-framework-migration-stories.md
 
   - 💻 TypeScript/JavaScript:
-    - "Coming Soon": README.md  
-    # Future: 03-TypeScript-JavaScript-Foundation/ section
+    - 03-TypeScript-JavaScript-Foundation/README.md
+    - "01: TypeScript Interview Essentials": 03-TypeScript-JavaScript-Foundation/03-01-typescript-interview-essentials.md
+    # Future: Additional 03-TypeScript-JavaScript-Foundation/ chapters
 
   - ⚡ Core Angular Deep-Dive:
     - 04-Core-Angular-Deep-Dive/README.md
