@@ -1,7 +1,7 @@
-site_name: Angular Prep Guide
-site_description: A comprehensive guide to learning Angular framework
-site_author: Shivprasad
-site_url: https://yourusername.github.io/angular-prep-guide  # Replace with your GitHub Pages URL
+site_name: Angular Interview Success Guide
+site_description: Complete Angular interview preparation framework with 1,526+ real questions analyzed
+site_author: CodeTreatise
+site_url: https://codetreatise.github.io/Angular-Interview_prep
 docs_dir: docs
 
 theme:
@@ -28,11 +28,75 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+    - toc.integrate
     - search.suggest
     - search.highlight
+    - search.share
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.code.select
 
 plugins:
   - search
+
+# Explicit navigation structure for scalability
+nav:
+  - Home: index.md
+  
+  - 🚀 Getting Started:
+    - Quick Assessment: QUICK_START_ASSESSMENT.md
+    - Company Tier Guide: COMPANY_TIER_GUIDE.md  
+    - Interview Strategy: INTERVIEW_STRATEGY.md
+    - Master Plan: Angular_Interview_Guide_Plan.md
+  
+  - 📚 Interview Essentials:
+    - 01-Interview-Essentials/README.md
+    - "01: Angular Fundamentals": 01-Interview-Essentials/01-01-angular-fundamentals.md
+    - "02: Components & Lifecycle": 01-Interview-Essentials/01-02-components-lifecycle.md
+    - "03: Data Binding & Communication": 01-Interview-Essentials/01-03-data-binding-communication.md
+    - "04: Services & Dependency Injection": 01-Interview-Essentials/01-04-services-dependency-injection.md
+    - "05: Routing & Navigation": 01-Interview-Essentials/01-05-routing-navigation.md
+    - "06: Forms & Validation": 01-Interview-Essentials/01-06-forms-validation.md
+    - "07: Pipes & Directives": 01-Interview-Essentials/01-07-pipes-directives.md
+    - "08: Observables & RxJS": 01-Interview-Essentials/01-08-observables-rxjs.md
+    - "09: HTTP Client & Interceptors": 01-Interview-Essentials/01-09-http-interceptors.md
+    - "10: Testing Fundamentals": 01-Interview-Essentials/01-10-testing-fundamentals.md
+    - "11: Performance Optimization": 01-Interview-Essentials/01-11-performance-optimization.md
+    - "12: Security Best Practices": 01-Interview-Essentials/01-12-security-best-practices.md
+    - "13: Question Bank": 01-Interview-Essentials/01-13-research-validated-qbank.md
+
+  - 🔧 Framework Context:
+    - "Coming Soon": README.md
+    # Future: 02-Framework-Context/ section
+
+  - 💻 TypeScript/JavaScript:
+    - "Coming Soon": README.md  
+    # Future: 03-TypeScript-JavaScript-Foundation/ section
+
+  - ⚡ Core Angular Deep-Dive:
+    - "Coming Soon": README.md
+    # Future: 04-Core-Angular-Deep-Dive/ section
+
+  - 🚀 Advanced Angular:
+    - "Coming Soon": README.md
+    # Future: 05-Advanced-Angular/ section
+
+  - 📈 Angular Evolution:
+    - "Coming Soon": README.md
+    # Future: 06-Angular-Evolution/ section
+
+  - 🎯 Practical Challenges:
+    - "Coming Soon": README.md
+    # Future: 07-Practical-Challenges/ section
+
+  - 🎭 Mock Interviews:
+    - "Coming Soon": README.md  
+    # Future: 08-Mock-Interviews-Enhanced/ section
+
+  - 📋 Quick Reference:
+    - "Coming Soon": README.md
+    # Future: 09-Quick-Reference-Enhanced/ section
