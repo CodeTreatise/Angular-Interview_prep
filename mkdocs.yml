@@ -90,7 +90,11 @@ nav:
   - 🔧 Framework Context:
     - 02-Framework-Context/README.md
     - "01: Angular vs React": 02-Framework-Context/02-01-angular-vs-react.md
-    # Future: Other 02-Framework-Context/ chapters
+    - "02: Angular vs Vue": 02-Framework-Context/02-02-angular-vs-vue.md
+    - "03: When to Choose Angular": 02-Framework-Context/02-03-when-to-choose-angular.md
+    - "04: AngularJS vs Angular": 02-Framework-Context/02-04-angularjs-vs-angular.md
+    - "05: Ecosystem Tooling": 02-Framework-Context/02-05-ecosystem-tooling.md
+    - "06: Framework Migration Stories": 02-Framework-Context/02-06-framework-migration-stories.md
 
   - 💻 TypeScript/JavaScript:
     - "Coming Soon": README.md  
