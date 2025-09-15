@@ -345,7 +345,7 @@ export class BestComponent {
 
 ---
 
-## ⬅️ **Previous**: [01-07 Pipes & Directives](./01-07-pipes-directives.md) | 🏠 **[Section Home](./README.md)** | **Next**: [01-09 HTTP Client & Interceptors](./01-09-http-interceptors.md) ➡️
+## ⬅️ **Previous**: [01-07 Pipes & Directives](./01-07-pipes-directives.md) | 🏠 **[Section Home](./README.md)** | **Next**: [01-09 Common Gotchas & Debugging](./01-09-common-gotchas-debugging.md) ➡️
 
 ---
 

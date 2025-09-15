@@ -5,7 +5,7 @@
 
 | Chapter | Topic | Interview Frequency | Difficulty |
 |---------|-------|-------------------|------------|
-| 01-09 | **HTTP Client & Interceptors** | 75% | Intermediate |
+| 01-09 | **Common Gotchas & Debugging** | 70% | Intermediate |
 | 01-10 | **Testing Fundamentals** | 65% | Intermediate |
 | 01-11 | **Performance Optimization** | 60% | Advanced |
 | 01-12 | **Security Best Practices** | 55% | Intermediate |

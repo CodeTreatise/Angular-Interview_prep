@@ -81,11 +81,11 @@ nav:
     - "06: Forms & Validation": 01-Interview-Essentials/01-06-forms-validation.md
     - "07: Pipes & Directives": 01-Interview-Essentials/01-07-pipes-directives.md
     - "08: Observables & RxJS": 01-Interview-Essentials/01-08-observables-rxjs.md
-    - "09: HTTP Client & Interceptors": 01-Interview-Essentials/01-09-http-interceptors.md
-    - "10: Testing Fundamentals": 01-Interview-Essentials/01-10-testing-fundamentals.md
-    - "11: Performance Optimization": 01-Interview-Essentials/01-11-performance-optimization.md
-    - "12: Security Best Practices": 01-Interview-Essentials/01-12-security-best-practices.md
-    - "13: Question Bank": 01-Interview-Essentials/01-13-research-validated-qbank.md
+    - "09: Common Gotchas & Debugging": 01-Interview-Essentials/01-09-common-gotchas-debugging.md
+    - "10: Algorithm Fundamentals": 01-Interview-Essentials/01-10-algorithm-fundamentals.md
+    - "11: Company Tier Preparation": 01-Interview-Essentials/01-11-company-tier-preparation.md
+    - "12: Real Interview Scenarios": 01-Interview-Essentials/01-12-real-interview-scenarios.md
+    - "13: Research Validated Q&A Bank": 01-Interview-Essentials/01-13-research-validated-qbank.md
 
   - 🔧 Framework Context:
     - "Coming Soon": README.md
@@ -96,8 +96,9 @@ nav:
     # Future: 03-TypeScript-JavaScript-Foundation/ section
 
   - ⚡ Core Angular Deep-Dive:
-    - "Coming Soon": README.md
-    # Future: 04-Core-Angular-Deep-Dive/ section
+    - 04-Core-Angular-Deep-Dive/README.md
+    - "06: HTTP Interceptors Advanced": 04-Core-Angular-Deep-Dive/04-06-http-interceptors-advanced.md
+    # Future: Other 04-Core-Angular-Deep-Dive/ chapters
 
   - 🚀 Advanced Angular:
     - "Coming Soon": README.md
