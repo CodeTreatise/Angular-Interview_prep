@@ -2,10 +2,14 @@ site_name: Angular Interview Success Guide
 site_description: Complete Angular interview preparation framework with 1,526+ real questions analyzed
 site_author: CodeTreatise
 site_url: https://codetreatise.github.io/Angular-Interview_prep
+repo_url: https://github.com/CodeTreatise/Angular-Interview_prep
+repo_name: CodeTreatise/Angular-Interview_prep
 docs_dir: docs
 
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
@@ -39,9 +43,23 @@ theme:
     - content.code.annotation
     - content.code.copy
     - content.code.select
+    - content.action.edit
+    - content.action.view
 
 plugins:
   - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/CodeTreatise/Angular-Interview_prep
+      name: Fork on GitHub
+    - icon: fontawesome/solid/star
+      link: https://github.com/CodeTreatise/Angular-Interview_prep/stargazers
+      name: Star this project
+    - icon: fontawesome/solid/heart
+      link: https://github.com/CodeTreatise
+      name: Follow CodeTreatise
 
 # Explicit navigation structure for scalability
 nav:
