@@ -88,8 +88,9 @@ nav:
     - "13: Research Validated Q&A Bank": 01-Interview-Essentials/01-13-research-validated-qbank.md
 
   - 🔧 Framework Context:
-    - "Coming Soon": README.md
-    # Future: 02-Framework-Context/ section
+    - 02-Framework-Context/README.md
+    - "01: Angular vs React": 02-Framework-Context/02-01-angular-vs-react.md
+    # Future: Other 02-Framework-Context/ chapters
 
   - 💻 TypeScript/JavaScript:
     - "Coming Soon": README.md  

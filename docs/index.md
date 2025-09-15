@@ -52,6 +52,38 @@ Welcome to the comprehensive Angular interview preparation guide. This guide is 
             <span class="angular-concept">Components</span>
         </div>
     </div>
+    
+    <div class="timeline-item">
+        <div class="timeline-content">
+            <h4><a href="01-Interview-Essentials/">📚 All 13 Essential Modules</a></h4>
+            <p>Complete coverage: Data Binding, Services, Routing, Forms, RxJS, Debugging, Algorithms, and more.</p>
+            <span class="difficulty-expert">Complete</span>
+            <span class="angular-concept">Mastery</span>
+        </div>
+    </div>
+</div>
+
+#### **Section 02: Framework Context** 🆕
+*Priority: HIGH - Strategic framework knowledge*
+
+<div class="timeline">
+    <div class="timeline-item">
+        <div class="timeline-content">
+            <h4><a href="02-Framework-Context/02-01-angular-vs-react">⚖️ Angular vs React</a></h4>
+            <p>Complete technical comparison, decision frameworks, and interview strategies.</p>
+            <span class="difficulty-medium">Strategic</span>
+            <span class="angular-concept">Comparison</span>
+        </div>
+    </div>
+    
+    <div class="timeline-item">
+        <div class="timeline-content">
+            <h4><a href="02-Framework-Context/">🔧 Framework Decision Making</a></h4>
+            <p>5 more chapters: Vue comparison, decision criteria, ecosystem, migration, and integration.</p>
+            <span class="difficulty-medium">In Progress</span>
+            <span class="angular-concept">Strategy</span>
+        </div>
+    </div>
 </div>
 
 ---
@@ -64,7 +96,8 @@ Welcome to the comprehensive Angular interview preparation guide. This guide is 
 
 ### **Completion Status**
 - ✅ **Foundation Guides**: Assessment, Company Guide, Strategy (Complete)
-- 🔄 **Technical Content**: Section 01 (8/13 modules complete - 62%)
+- ✅ **Section 01 - Interview Essentials**: (13/13 modules complete - 100%) 🎉
+- 🔄 **Section 02 - Framework Context**: (1/6 modules complete - 17%)
 - ⏳ **Advanced Topics**: Coming soon
 - ⏳ **Practice Questions**: Coming soon
 
@@ -82,8 +115,8 @@ Welcome to the comprehensive Angular interview preparation guide. This guide is 
         <span class="stat-label">Success Rate</span>
     </div>
     <div class="stat-card">
-        <span class="stat-number">13</span>
-        <span class="stat-label">Core Modules</span>
+        <span class="stat-number">14</span>
+        <span class="stat-label">Modules Complete</span>
     </div>
     <div class="stat-card">
         <span class="stat-number">4</span>
