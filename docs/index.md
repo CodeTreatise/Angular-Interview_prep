@@ -78,10 +78,46 @@ Welcome to the comprehensive Angular interview preparation guide. This guide is 
     
     <div class="timeline-item">
         <div class="timeline-content">
-            <h4><a href="02-Framework-Context/">🔧 Framework Decision Making</a></h4>
-            <p>5 more chapters: Vue comparison, decision criteria, ecosystem, migration, and integration.</p>
-            <span class="difficulty-medium">In Progress</span>
-            <span class="angular-concept">Strategy</span>
+            <h4><a href="02-Framework-Context/02-02-angular-vs-vue">🆚 Angular vs Vue</a></h4>
+            <p>Vue.js comparison with learning curve analysis and decision frameworks.</p>
+            <span class="difficulty-medium">Strategic</span>
+            <span class="angular-concept">Comparison</span>
+        </div>
+    </div>
+    
+    <div class="timeline-item">
+        <div class="timeline-content">
+            <h4><a href="02-Framework-Context/02-03-when-to-choose-angular">🎯 When to Choose Angular</a></h4>
+            <p>Decision criteria, use case analysis, and systematic framework selection.</p>
+            <span class="difficulty-medium">Strategic</span>
+            <span class="angular-concept">Decision</span>
+        </div>
+    </div>
+    
+    <div class="timeline-item">
+        <div class="timeline-content">
+            <h4><a href="02-Framework-Context/02-04-angularjs-vs-angular">🔄 AngularJS vs Angular</a></h4>
+            <p>Legacy migration strategies and modernization frameworks.</p>
+            <span class="difficulty-medium">Migration</span>
+            <span class="angular-concept">Legacy</span>
+        </div>
+    </div>
+    
+    <div class="timeline-item">
+        <div class="timeline-content">
+            <h4><a href="02-Framework-Context/02-05-ecosystem-tooling">🛠️ Ecosystem & Tooling</a></h4>
+            <p>Angular ecosystem advantages and comprehensive tooling analysis.</p>
+            <span class="difficulty-medium">Strategic</span>
+            <span class="angular-concept">Ecosystem</span>
+        </div>
+    </div>
+    
+    <div class="timeline-item">
+        <div class="timeline-content">
+            <h4><a href="02-Framework-Context/02-06-framework-migration-stories">📖 Framework Migration Stories</a></h4>
+            <p>Real migration experiences with practical challenges and strategic decisions.</p>
+            <span class="difficulty-expert">Advanced</span>
+            <span class="angular-concept">Migration</span>
         </div>
     </div>
 </div>
@@ -97,7 +133,7 @@ Welcome to the comprehensive Angular interview preparation guide. This guide is 
 ### **Completion Status**
 - ✅ **Foundation Guides**: Assessment, Company Guide, Strategy (Complete)
 - ✅ **Section 01 - Interview Essentials**: (13/13 modules complete - 100%) 🎉
-- 🔄 **Section 02 - Framework Context**: (1/6 modules complete - 17%)
+- ✅ **Section 02 - Framework Context**: (6/6 modules complete - 100%) 🎉
 - ⏳ **Advanced Topics**: Coming soon
 - ⏳ **Practice Questions**: Coming soon
 
@@ -115,7 +151,7 @@ Welcome to the comprehensive Angular interview preparation guide. This guide is 
         <span class="stat-label">Success Rate</span>
     </div>
     <div class="stat-card">
-        <span class="stat-number">14</span>
+        <span class="stat-number">20</span>
         <span class="stat-label">Modules Complete</span>
     </div>
     <div class="stat-card">
