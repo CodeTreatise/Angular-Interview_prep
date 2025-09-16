@@ -96,9 +96,13 @@ nav:
     - "05: Ecosystem Tooling": 02-Framework-Context/02-05-ecosystem-tooling.md
     - "06: Framework Migration Stories": 02-Framework-Context/02-06-framework-migration-stories.md
 
-  - 💻 TypeScript/JavaScript:
-    - 03-TypeScript-JavaScript-Foundation/README.md
-    - "01: TypeScript Interview Essentials": 03-TypeScript-JavaScript-Foundation/03-01-typescript-interview-essentials.md
+  - Section 03 - TypeScript & JavaScript Foundation:
+    - Overview: 03-TypeScript-JavaScript-Foundation/README.md
+    - 03-01 TypeScript Interview Essentials: 03-TypeScript-JavaScript-Foundation/03-01-typescript-interview-essentials.md
+    - 03-02 JavaScript Core Concepts: 03-TypeScript-JavaScript-Foundation/03-02-javascript-core-concepts.md
+    - 03-03 Async Programming Patterns: 03-TypeScript-JavaScript-Foundation/03-03-async-programming-patterns.md
+    - 03-04 TypeScript Advanced Patterns: 03-TypeScript-JavaScript-Foundation/03-04-typescript-advanced-patterns.md
+    - 03-05 Functional Programming in Angular: 03-TypeScript-JavaScript-Foundation/03-05-functional-programming-angular.md
     # Future: Additional 03-TypeScript-JavaScript-Foundation/ chapters
 
   - ⚡ Core Angular Deep-Dive:
